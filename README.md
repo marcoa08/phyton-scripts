@@ -1,2 +1,2 @@
 # ejercicios-fisica_computacional
-ejercicios
+Ejercicios de física computacional
